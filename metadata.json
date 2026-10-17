@@ -1,0 +1,8 @@
+{
+  "name": "Orient Core System - Servicio Técnico Gaming & PC",
+  "description": "Landing page oficial de Orient Core System (OCS). Servicio técnico especializado en PC, Notebooks y Gaming: mantenición, upgrades, optimización y armado.",
+  "requestFramePermissions": [],
+  "majorCapabilities": [
+    "MAJOR_CAPABILITY_SERVER_SIDE_GEMINI_API"
+  ]
+}
